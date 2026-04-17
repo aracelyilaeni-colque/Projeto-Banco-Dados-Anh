@@ -96,3 +96,5 @@ C:\Users\IlaeniAracelyColque\source\repos\Segundo_App_BancoDados\Segundo_App_Ban
 C:\Users\IlaeniAracelyColque\source\repos\Segundo_App_BancoDados\Segundo_App_BancoDados\obj\Debug\net10.0\Segundo_App_BancoDados.pdb
 C:\Users\IlaeniAracelyColque\source\repos\Segundo_App_BancoDados\Segundo_App_BancoDados\obj\Debug\net10.0\Segundo_App_BancoDados.genruntimeconfig.cache
 C:\Users\IlaeniAracelyColque\source\repos\Segundo_App_BancoDados\Segundo_App_BancoDados\obj\Debug\net10.0\ref\Segundo_App_BancoDados.dll
+C:\Users\IlaeniAracelyColque\source\repos\Segundo_App_BancoDados\Segundo_App_BancoDados\obj\Debug\net10.0\Segundo_App_BancoDados.csproj.AssemblyReference.cache
+C:\Users\IlaeniAracelyColque\source\repos\Segundo_App_BancoDados\Segundo_App_BancoDados\obj\Debug\net10.0\Segundo_App_BancoDados.sourcelink.json
