@@ -1,4 +1,4 @@
-﻿]using MySql.Data.MySqlClient;
+﻿using MySql.Data.MySqlClient;
 using Segundo_App_BancoDados.Models;
 using Segundo_App_BancoDados.Repository.Contratc;
 
